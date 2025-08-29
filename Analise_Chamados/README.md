@@ -20,7 +20,7 @@ Em julho de 2025, participei de um desafio para gerar insights de negócios a pa
    </p>   
 <br>
    Foram identificados valores nulos nas colunas "Data de Resolução" e "Tempo de Atendimento". Isso é esperado para chamados “Abertos” ou “Em andamento”, mas 11 chamados “Resolvidos” também
-   apresentam nulos. Esses registros foram tratados como erros e desconsiderados através da maipulação via Power Query, visando preservar o arquivo em seu estado original.   <br>
+   apresentam nulos. Esses registros foram tratados como erros e desconsiderados através da manipulação via Power Query, visando preservar o arquivo em seu estado original.   <br>
 <br><br>
 
 **2. Definição dos indicadores de performance e estruturação do dashboard**   <br><br>
