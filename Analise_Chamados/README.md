@@ -2,7 +2,7 @@
 
 Link para visualizar o arquivo PBI na íntegra: [Visão Gerencial de Atendimento de Chamados](https://app.powerbi.com/view?r=eyJrIjoiNThhNDMxYTMtOTEwZS00OGZkLThhMjgtZjk4ZWM3N2NhMjMwIiwidCI6ImFiNTNkNTJlLWRmNDctNDlmOS04OTYwLThhMmQzMjBkMGM4ZCJ9)  
 
-Link para baixar a base de dados em excel: 
+Link para baixar a base de dados em excel: [Base de Dados - Excel](https://github.com/wuehara/Projetos_Power_BI/raw/refs/heads/main/Analise_Chamados/Case_Atendimento.xlsx)
 
 ## Contextualização
 Em julho de 2025, participei de um desafio para gerar insights de negócios a partir de dados de chamados do time de suporte técnico. Sem instruções prévias, a proposta era surpreender a diretoria com análises relevantes apresentadas de forma visual, impactante e sugerindo ações. Foi disponibilizado um arquivo em excel (link acima) contendo 400 linhas de registros.
@@ -13,14 +13,14 @@ Em julho de 2025, participei de um desafio para gerar insights de negócios a pa
 ## Resolução
 
 **1. Análise inicial da base de dados**   <br><br>
-   Como se trata de uma base de dados pequena, a análise inicial foi feita pelo próprio excel para entender o contexto e verificar os valores nulos.   
+   Como se trata de uma base de dados pequena, a análise inicial foi feita pelo próprio excel para entender o contexto e verificar a existência de valores nulos.   
 <br>
    <p align="center">
     <img src="https://github.com/user-attachments/assets/82dbcb64-7f73-4095-a25c-e0db813ac4b2" width="800" height="191" />
    </p>   
 <br>
    Foram identificados valores nulos nas colunas "Data de Resolução" e "Tempo de Atendimento". Isso é esperado para chamados “Abertos” ou “Em andamento”, mas 11 chamados “Resolvidos” também
-   apresentam nulos. Esses registros foram tratados como erros e desconsiderados através da maipulação via Power Query, visando preservar o arquivo em seu estado original.
+   apresentam nulos. Esses registros foram tratados como erros e desconsiderados através da maipulação via Power Query, visando preservar o arquivo em seu estado original.   <br>
 <br><br>
 
 **2. Definição dos indicadores de performance e estruturação do dashboard**   <br><br>
