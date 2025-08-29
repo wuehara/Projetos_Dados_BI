@@ -30,7 +30,7 @@ Cada projeto possui uma **subpasta própria**, com:
 
 ### 📌 Índice de Projetos  
 
-1. [Análise de Chamados de Suporte](./analise_chamados/README.md)  
+1. [Análise de Chamados de Suporte](./Analise_Chamados/README.md)  
    - Dashboard que avalia a performance do atendimento de chamados, com KPIs de tempo médio, volume mensal, responsáveis e áreas solicitantes.  
 
 2. [Outro Projeto Exemplo](./outro_projeto/README.md)  
