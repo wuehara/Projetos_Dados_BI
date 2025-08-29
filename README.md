@@ -1,4 +1,4 @@
-# Portfólio de Projetos de Análise de Dados e BI (Em Construção)
+# Portfólio de Projetos de Análise de Dados e BI
 ## 👋 Apresentação Pessoal
 
 Olá! É um prazer recebê-lo aqui. Meu nome é **William Noboru Takara Uehara**.
@@ -8,7 +8,7 @@ Sou profissional de Marketing **(Inteligência de Mercado)** e tenho experiênci
 - Desenvolvimento de dashboards de performance e indicadores;  
 - Apoio à tomada de decisão orientada a dados.
 
-Para mais informações, envie uma mensagem: [LinkedIn](https://www.linkedin.com/in/william-noboru-takara-uehara-19840892/)  
+Para mais informações, me envie uma mensagem: [LinkedIn](https://www.linkedin.com/in/william-noboru-takara-uehara-19840892/)  
 
 ---
 ## 📝 Sobre Este Repositório
@@ -21,8 +21,7 @@ Este repositório foi criado para compartilhar alguns projetos que desenvolvi, c
 
 ---
 
-## 🚀 Projetos  
-### 📌 Índice de Projetos  
+## 🚀 Projetos (Em Contrução)   
 
 1. [Análise de Chamados de Suporte - PBI](./Analise_Chamados/README.md)  
    - Dashboard que avalia a performance do atendimento de chamados, incluindo KPIs de tempo, volume mensal, responsáveis e áreas solicitantes.  
