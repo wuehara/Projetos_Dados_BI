@@ -46,10 +46,10 @@ Em julho de 2025, participei de um desafio para gerar insights de negócios a pa
 
 **3.1. Mantendo o status "Resolvido" e filtrando apenas o mês de fevereiro**   <br><br>
    Observações:   
-   - Em fevereiro, alguns casos de maior dispêndio de tempo concentraram-se em dois membros do time: Patrícia e Lucas;
+   - Em fevereiro, alguns atendimentos de maior dispêndio de tempo concentraram-se em dois membros do time: Patrícia e Lucas;
    - O tempo dedicado por eles correspondeu a cerca de metade do total do time no período;
-   - As principais demandas vieram dos times de TI e Financeiro, especialmente em "Requisições" e "Incidentes";
-   - Ação: avaliar com Patrícia e Lucas esses casos pontuais, assegurando que o time esteja preparado caso situações semelhantes se repitam futuramente.
+   - Esses chamados foram provenientes de todas as àreas solicitantes, exceto o Financeiro;
+   - Ação: avaliar com Patrícia e Lucas as ocorrências pontuais, assegurando que o time esteja preparado caso situações semelhantes se repitam futuramente.
 <br>
 
    <p align="center">
@@ -62,7 +62,7 @@ Em julho de 2025, participei de um desafio para gerar insights de negócios a pa
 **3.2. Mantendo status "Resolvido" e filtrando apenas o mês de maio**   <br><br>
    Observações:   
    -	Ocorreu o aumento abrupto de chamados para resolução de "Bugs" no mês de maio;
-   -	Esses casos representam 43% do total do tipo de casos atendidos no referido mês;
+   -	Esses casos representaramm 43% do total dos tipos de chamados atendidos no referido mês;
    -	Possivelmente houve a implantação ou atualização de algum sistema que não foi bem-sucedido;
    -	Ação: identificar a falha no processo, registrá-lo no mapeamento de análise de risco da área, investir em ações preventivas e melhores práticas;
 <br>
@@ -75,9 +75,9 @@ Em julho de 2025, participei de um desafio para gerar insights de negócios a pa
 **3.3. Mantendo status "Resolvido" e observando os responsáveis**   <br><br>
    Observações:   
    - João apresentou menor volume de chamados atendidos em comparação aos demais membros do time;
-   - Na visão mensal, percebe-se uma queda em abril no número de chamados atendidos por ele;
-   - Isso pode estar relacionado a férias ou outro afastamento no período;
-   - Ação: caso não tenha ocorrido afastamento, recomenda-se redistribuir parte das demandas da Patrícia e do Lucas para o João, equilibrando a carga de trabalho entre os membros do time.
+   - Na visão mensal, observou-se uma queda em abril no número de chamados atendidos por ele;
+   - Isso pode estar relacionado às férias ou a outro afastamento no período;
+   - Ação: caso não tenha ocorrido afastamento, recomenda-se redistribuir parte das demandas futuras da Patrícia e do Lucas para o João, equilibrando a carga de trabalho entre os membros do time.
 <br>
 
    <p align="center">
@@ -88,7 +88,7 @@ Em julho de 2025, participei de um desafio para gerar insights de negócios a pa
 **3.4. Filtrando os chamados com o status "Aberto" e "Em andamento"**   <br><br>
    Observações:   
    - Existem 12 chamados em aberto. É necessário contatar os solicitantes para entender os motivos e, se possível, concluir os chamados, atendendo às diretrizes da auditoria;
-   - Ainda 11 chamados em andamento referentes ao primeiro quadrimestre do ano;
+   - Ainda há 11 chamados em andamento referentes ao primeiro quadrimestre do ano;
    - Ação: reunir o time para acompanhamento e acelerar o processo, garantindo a conclusão dos chamados.
 <br>
 
