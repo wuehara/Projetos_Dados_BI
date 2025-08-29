@@ -1,4 +1,4 @@
-# Portfólio de Projetos de Análise de Dados e BI
+# Portfólio de Projetos de Análise de Dados e BI (Em Construção)
 ## 👋 Apresentação Pessoal
 
 Olá! É um prazer recebê-lo aqui. Meu nome é **William Noboru Takara Uehara**.
@@ -22,30 +22,8 @@ Este repositório foi criado para compartilhar alguns projetos que desenvolvi, c
 ---
 
 ## 🚀 Projetos  
-
-Cada projeto possui uma **subpasta própria**, com:  
-- Arquivo `.pbix` (dashboard em Power BI)  
-- Dataset utilizado (quando possível)  
-- `README.md` detalhado, com prints e descrição do projeto  
-
 ### 📌 Índice de Projetos  
 
-1. [Análise de Chamados de Suporte](./Analise_Chamados/README.md)  
-   - Dashboard que avalia a performance do atendimento de chamados, com KPIs de tempo médio, volume mensal, responsáveis e áreas solicitantes.  
-
-2. [Outro Projeto Exemplo](./outro_projeto/README.md)  
-   - *(descrição breve do segundo projeto)*  
-
-3. [Projeto X](./projeto_x/README.md)  
-   - *(descrição breve do terceiro projeto)*  
-
----
-
-## 🛠️ Habilidades Demonstradas  
-- **Power BI Desktop**: modelagem de dados, DAX, medidas e KPIs.  
-- **Data Cleaning e ETL** com Power Query.  
-- **Design de Dashboards** com foco em clareza e storytelling.  
-- **Integração de múltiplas fontes** (Excel, CSV, SQL, etc.).  
-- **Análise exploratória de dados** para geração de insights.  
-
----
+1. [Análise de Chamados de Suporte - PBI](./Analise_Chamados/README.md)  
+   - Dashboard que avalia a performance do atendimento de chamados, incluindo KPIs de tempo, volume mensal, responsáveis e áreas solicitantes.  
+   - Ferramentas: Excel, Power BI, DAX e Power Query.
