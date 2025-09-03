@@ -1,4 +1,4 @@
-# Portfólio de Projetos de Análise de Dados e BI
+# Portfólio de Projetos - Análise de Dados e BI
 ## 👋 Apresentação Pessoal
 
 Olá! É um prazer recebê-lo aqui. Meu nome é **William Noboru Takara Uehara**.
