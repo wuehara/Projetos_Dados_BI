@@ -5,7 +5,7 @@ Link para visualizar o arquivo PBI na íntegra: [Visão Gerencial de Atendimento
 Link para baixar a base de dados em excel: [Base de Dados - Excel](https://github.com/wuehara/Projetos_Power_BI/raw/refs/heads/main/Analise_Chamados/Case_Atendimento.xlsx)
 
 ## Contextualização
-Em julho de 2025, participei de um desafio para gerar insights de negócios a partir de dados de chamados do time de suporte técnico. Sem instruções prévias, a proposta era surpreender a diretoria com análises relevantes apresentadas de forma visual, impactante e sugerindo ações. Foi disponibilizado um arquivo em excel (link acima) contendo 400 linhas de registros.
+Em julho de 2025, participei de um desafio para gerar insights de negócios a partir de dados de chamados do time de suporte técnico. Sem instruções prévias, a proposta era surpreender a gerência/diretoria com análises relevantes apresentadas de forma visual, impactante e sugerindo ações. Foi disponibilizado um arquivo em excel (link acima) contendo 400 linhas de registros.
 
 **Prazo de entrega:** 1 dia corrido (dados recebidos na quinta-feira às 13h, entrega até sexta-feira às 18h).
 
@@ -62,7 +62,7 @@ Em julho de 2025, participei de um desafio para gerar insights de negócios a pa
 **3.2. Mantendo status "Resolvido" e filtrando apenas o mês de maio**   <br><br>
    Observações:   
    -	Ocorreu o aumento abrupto de chamados para resolução de "Bugs" no mês de maio;
-   -	Esses casos representaramm 43% do total dos tipos de chamados atendidos no referido mês;
+   -	Esses casos representaram 43% do total dos tipos de chamados atendidos no referido mês;
    -	Possivelmente houve a implantação ou atualização de algum sistema que não foi bem-sucedido;
    -	Ação: identificar a falha no processo, registrá-lo no mapeamento de análise de risco da área, investir em ações preventivas e melhores práticas;
 <br>
