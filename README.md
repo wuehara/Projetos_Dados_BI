@@ -21,7 +21,7 @@ Este repositório foi criado para compartilhar alguns projetos que desenvolvi, c
 
 ---
 
-## 🚀 Projetos (Em Contrução)   
+## 🚀 Projetos (Em Construção)   
 
 1. [Análise de Chamados de Suporte - PBI](./Analise_Chamados/README.md)  
    - Dashboard que avalia a performance do atendimento de chamados, incluindo KPIs de tempo, volume mensal, responsáveis e áreas solicitantes.  
