@@ -44,7 +44,7 @@ Em julho de 2025, participei de um desafio para gerar insights de negócios a pa
    </p>   
 <br>
 
-**3.1. Mantendo o status "Resolvido" e filtrando apenas o mês de fevereiro**   <br><br>
+**3.1. Mantendo o status "Resolvido" e filtrando apenas o mês de fevereiro (via Drill Down)**   <br><br>
    Observações:   
    - Em fevereiro, alguns atendimentos de maior dispêndio de tempo concentraram-se em dois membros do time: Patrícia e Lucas;
    - O tempo dedicado por eles correspondeu a cerca de metade do total do time no período;
